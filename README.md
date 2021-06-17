@@ -1,3 +1,3 @@
-# Official OpenAnarchy website
+# remade OpenAnarchy website
 
-After all this time the lazy devs finally finished the website
+remade by cart#0001 !!!! (he has no knowledge of html/css)
